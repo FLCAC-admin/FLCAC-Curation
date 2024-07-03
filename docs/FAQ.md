@@ -105,7 +105,7 @@ These repositories are useful for reviewing all characterization factors for flo
 They can be downloaded and imported into a user's local database.
 However doing so will also import _all_ FEDEFL flows characterized by the method, often resulting in over 100,000 flow objects.
 
-See [Life Cycle Impact Assessment Methods](LCIAmethods.md) for additional details.
+See [Life Cycle Impact Assessment Methods](Reference/LCIAmethods.md) for additional details.
 
 </details>
 
@@ -131,7 +131,7 @@ TRACI version 2.2 with updated Eutrophication Factors is currently being harmoni
 
 Additional LCIA methods such as CML, Ecopoint, eco-indicator, EDIP2003, EPS, IMAGE 3, LIME, LUCAS, MEEup, ILCD and NAMEA are not currently available in a harmonized format. Flow mapping would be required to use these impact assessment methods with FLCAC data.
 
-See [Life Cycle Impact Assessment Methods](LCIAmethods.md) for additional details.
+See [Life Cycle Impact Assessment Methods](Reference/LCIAmethods.md) for additional details.
 
 </details>
 <details>
